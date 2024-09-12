@@ -1,5 +1,6 @@
-public enum PlaceTest {
-    Offered = 1,
-    Tested = 2,
-    OfferedAndTried =3
+public enum PlaceTest
+{
+    None = 00000000,
+    Offered = 00000001,
+    Tested = 00000010
 }

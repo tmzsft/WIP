@@ -1,9 +1,7 @@
-public enum PlaceType 
+public enum PlaceType
 {
-    Restaurant = 1,
-    TeaHouse =2,
-    CoffeeShop = 3,
-    WorkHouse = 4,
-
-    Other = 99        
+    Restaurant = 00000001,
+    TeaHouse = 00000010,
+    CoffeeShop = 00000100,
+    WorkHouse = 00001000
 }

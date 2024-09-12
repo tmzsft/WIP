@@ -1,0 +1,12 @@
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/bin/Debug/net8.0/WIP.Core.deps.json
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/bin/Debug/net8.0/WIP.Core.dll
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/bin/Debug/net8.0/WIP.Core.pdb
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/WIP.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/WIP.Core.AssemblyInfoInputs.cache
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/WIP.Core.AssemblyInfo.cs
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/WIP.Core.csproj.CoreCompileInputs.cache
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/WIP.Core.sourcelink.json
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/WIP.Core.dll
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/refint/WIP.Core.dll
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/WIP.Core.pdb
+/Users/ahmetbayram/Documents/GitHub/WIP/WIP.Core/obj/Debug/net8.0/ref/WIP.Core.dll

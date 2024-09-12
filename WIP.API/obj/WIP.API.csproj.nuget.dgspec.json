@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API/WIP.API.csproj": {}
+    "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API.csproj": {}
   },
   "projects": {
-    "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API/WIP.API.csproj": {
+    "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API/WIP.API.csproj",
+        "projectUniqueName": "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API.csproj",
         "projectName": "WIP.API",
-        "projectPath": "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API/WIP.API.csproj",
+        "projectPath": "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API.csproj",
         "packagesPath": "/Users/ahmetbayram/.nuget/packages/",
-        "outputPath": "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/WIP.API/obj/",
+        "outputPath": "/Users/ahmetbayram/Documents/GitHub/WIP/WIP.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmetbayram/.nuget/NuGet/NuGet.Config"

@@ -1,5 +1,6 @@
+[Flags]
 public enum PlaceBuilding
 {
-    Private = 1,
-    Apartment = 2
+    Private = 00000001,
+    Apartment = 00000010
 }

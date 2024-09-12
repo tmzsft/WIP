@@ -1,6 +1,7 @@
+[Flags]
 public enum PlaceParking{
-    NoParking = 1,
-    HasFreeParkingAround = 2,
-    HasPrivateParking = 3,
-    HasPaidParking = 4
+    NoParking = 00000000,
+    HasFreeParkingAround = 00000001,
+    HasFreePrivateParking = 00000010,
+    HasPaidParking = 00000100
 }

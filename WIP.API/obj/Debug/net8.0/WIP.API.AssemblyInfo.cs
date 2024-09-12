@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WIP.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1b614c3cff245b95712e38d092db567263dbb84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49193b0b596d1e3764e4b05a34afa3ac1645f582")]
 [assembly: System.Reflection.AssemblyProductAttribute("WIP.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WIP.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

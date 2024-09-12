@@ -1,3 +1,4 @@
+[Flags]
 public enum PlacePrevalence
 {
     Local = 1,

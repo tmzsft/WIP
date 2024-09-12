@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP.API", "WIP.API\WIP.API.csproj", "{6712C73E-7726-4CAC-94D7-ED70A4D6AF31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP.Common", "..\WIP.Common\WIP.Common.csproj", "{3CDC621A-1A75-48FF-83F2-76AF8DCF5F4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP.Common", "WIP.Common\WIP.Common.csproj", "{3CDC621A-1A75-48FF-83F2-76AF8DCF5F4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP.Core", "..\WIP.Core\WIP.Core.csproj", "{4A4B1AB4-D31B-462C-9977-4E7CF54E78BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIP.Core", "WIP.Core\WIP.Core.csproj", "{4A4B1AB4-D31B-462C-9977-4E7CF54E78BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
