@@ -10,7 +10,7 @@ public class Place
     public PlacePrevalence PlacePrevalence { get; set; }
     public int PlaceCountry { get; set; }
     public int PlaceCity { get; set; }
-    public required string PlaceLocation { get; set; }""
+    public required string PlaceLocation { get; set; }
     public PlaceTest PlaceTest { get; set; }
     public bool PlaceRegistered { get; set; }
     public bool PlaceHasSeperatedWorkingArea { get; set; }
